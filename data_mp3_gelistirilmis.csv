@@ -1,0 +1,31 @@
+Parca_Adi,Kategori,Aciklama,Kaynak,Yaklasik_Agirlik_kg,Malzeme,Aero_Tipi
+Ön Kanat,Aerodinamik,Hava akımını yönlendirir ve ön downforce'u oluşturur.,FIA Teknik Regülasyonları,12,Karbon Fiber,High Downforce
+Arka Kanat,Aerodinamik,Arka stabiliteyi sağlar.,FIA Aerodinamik Raporu,18,Karbon Fiber,High Downforce
+Monokok Şasi,Şasi,Sürücüyü koruyan ana gövde.,F1 Teknik Rehber,95,Karbon Fiber Kompozit,N/A
+Halo,Güvenlik,Baş koruma sistemi.,FIA Güvenlik Dokümanı,7,Titanyum,N/A
+Güç Ünitesi,Motor,1.6L V6 hibrit motor.,Mercedes PU Tanıtımı,145,Alaşımlı Çelik,Balanced
+MGU-K,Motor,Kinetik enerji geri kazanımı.,Hybrid Guide,9,Elektrik Motoru,N/A
+MGU-H,Motor,Isı enerjisi geri kazanımı.,Hybrid Guide,6,Elektrik Motoru,N/A
+Turbocharger,Motor,Hava sıkıştırma sistemi.,Renault Teknik Sunumu,11,Alaşımlı Metal,N/A
+Süspansiyon (Ön),Mekanik,Push-rod tasarım.,Red Bull Teknik Analizi,14,Karbon Fiber + Metal,N/A
+Süspansiyon (Arka),Mekanik,Pull-rod tasarım.,McLaren Teknik Raporu,13,Karbon Fiber + Metal,N/A
+Fren Diskleri,Mekanik,Karbon disk fren sistemi.,Brembo Raporu,3,Karbon Kompozit,N/A
+Soğutma Kanalları,Mekanik,Fren ve lastik soğutması.,Brembo Teknik,4,Karbon Fiber,N/A
+Vites Kutusu,Aktarma,8 ileri yarı otomatik sistem.,F1 Transmission Report,52,Alaşımlı Metal,N/A
+Diferansiyel,Aktarma,Torku tekerleklere dağıtır.,F1 Drivetrain Notes,8,Alaşımlı Çelik,N/A
+Taban (Floor),Aerodinamik,Yer etkisini artırır.,FIA Yönetmelikleri,22,Karbon Fiber,Ground Effect
+Diffuser,Aerodinamik,Downforce'un büyük bölümünü üretir.,FIA Aero Analizi,16,Karbon Fiber,Ground Effect
+ERS Kontrol Ünitesi,Elektronik,Enerji yönetim sistemi.,ERS Tech Paper,5,Elektronik Devre,N/A
+Elektronik Beyin (ECU),Elektronik,Araç kontrol sistemlerini yönetir.,McLaren Applied ECU Dokümanı,1,Elektronik Devre,N/A
+Yakıt Deposu,Yakıt Sistemi,Güvenli yakıt saklama ünitesi.,F1 Fuel System Report,1,Kompozit Malzeme,N/A
+Yakıt Pompası,Yakıt Sistemi,Yakıt akışını düzenler.,Fuel Flow Regulations,2,Alaşımlı Metal,N/A
+Lastikler (Ön),Lastik,Direksiyon tepkisi sağlayan lastikler.,Pirelli Teknik Sunum,21,Sentetik Kauçuk,N/A
+Lastikler (Arka),Lastik,Çekiş sağlayan lastikler.,Pirelli Teknik Sunum,23,Sentetik Kauçuk,N/A
+Direksiyon,Kokpit,Sürücü kontrol paneli.,Driver Interface Brief,1,Elektronik + Karbon Fiber,N/A
+Koltuğu,Kokpit,Sürücü oturma alanı.,Seat Safety Doc,1,Karbon Fiber + Köpük,N/A
+Egzoz Sistemi,Motor,Atık gaz çıkışı.,FIA Egzoz Kuralları,8,Alaşımlı Metal,N/A
+Batarya (ES),Elektronik,ERS enerji depolama sistemi.,Hybrid Energy Storage Report,1,Lityum İyon,N/A
+Arka Kanat DRS,Aerodinamik,Hız arttırmak için açılabilen kanat.,DRS Teknik Belgesi,3,Karbon Fiber,Low Drag
+Ön Süspansiyon Kolları,Mekanik,Ön taraftaki bağlantı kolları.,F1 Suspension Notes,6,Karbon Fiber,N/A
+Yan Podlar,Aerodinamik,Hava yönlendirme ve soğutma.,Sidepod Aero Analysis,10,Karbon Fiber,Cooling Optimized
+Radar Sensörleri,Elektronik,Telemetri ve veri toplama sistemi.,Telemetry Report,1,Elektronik,N/A
